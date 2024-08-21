@@ -1,3 +1,0 @@
-super user name:admin password:admin
-
-mysql password:$onarBangla25
